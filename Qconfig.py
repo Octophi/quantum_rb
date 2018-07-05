@@ -1,4 +1,4 @@
-APItoken = 'c5295149c98aeb9a1e00e471fd230ced2b05078d5555fe476b29d9da616a01ab1b9d662ef087ba1c5d47b7f6efdc84e1cdeff37911cd034f6e61de11da36f9f6'
+APItoken = '06704f99fc6dd68ab5ae2663f0861723406de8b4553cacdabdf500292c937717442daa90c2ffa19109cfb9114adb7c87711a08860d34d1da9332ac664e4e24a7'
 
 config = {
     'url': 'https://quantumexperience.ng.bluemix.net/api',
